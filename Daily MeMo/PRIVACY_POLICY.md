@@ -5,7 +5,7 @@
 
 | | |
 |---|---|
-| **Application** | Daily MeMo (`com.dailymemo.app`) |
+| **Application** | Daily MeMo (`com.hteinlynnaung.dailymemo`) |
 | **Developer** | Htein Lynn Aung |
 | **Contact Email** | hteinlynnaung.1111@gmail.com |
 | **Country / Region** | Thailand |
